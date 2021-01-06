@@ -1,5 +1,5 @@
 module CNCURSES [system] {
-  header "header "/usr/local/Cellar/ncurses/6.2/include/ncurses.h""
+  header "/usr/local/Cellar/ncurses/6.2/include/ncurses.h"
   link "ncursesw"
   export *
 }
